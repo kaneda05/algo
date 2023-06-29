@@ -1,0 +1,7 @@
+SELECT COUNT(*) AS '都道府県数',
+       region AS '地方名',
+       SUM(area) AS '総面積' 
+       FROM prefectures 
+       
+GROUP BY region
+ORDER BY `総面積` DESC

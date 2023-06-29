@@ -1,0 +1,1 @@
+SELECT MAX(highest) as '最高気温', MIN(lowest) as '最低気温' FROM temperature_august
