@@ -7,9 +7,11 @@
 
 - HAVINGについて
 [【SQL】HAVING句の使い方を１分でわかりやすく解説](https://it-biz.online/it-skills/having/#toc1)
+
+
 簡潔にまとめるとGROUP BYによってグループ化されたデータに対して条件を付け加えることができる。
 また、合わせてグループ化する前に条件を付け加えたいならばWHEREを使えば良い。
-<strong>WHEREとHAVINGの違いについて明確に</strong>
+- <strong>WHEREとHAVINGの違いについて明確に</strong>
 
 |基本的な操作|[1](https://github.com/kaneda05/algo/blob/main/2/database1/3/1.sql)|[2](https://github.com/kaneda05/algo/blob/main/2/database1/3/2.sql)|[3](https://github.com/kaneda05/algo/blob/main/2/database1/3/3.sql)|[4](https://github.com/kaneda05/algo/blob/main/2/database1/3/4.sql)|[5](https://github.com/kaneda05/algo/blob/main/2/database1/3/5.sql)|[6](https://github.com/kaneda05/algo/blob/main/2/database1/3/6.sql)|[7](https://github.com/kaneda05/algo/blob/main/2/database1/3/7.sql)|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
