@@ -22,3 +22,14 @@ HAVINGを使用した問題は「**データの集計と編集の6**」
 
 |練習問題|[1](https://github.com/kaneda05/algo/blob/main/2/database1/4/1.sql)|[2](https://github.com/kaneda05/algo/blob/main/2/database1/4/2.sql)|[3](https://github.com/kaneda05/algo/blob/main/2/database1/4/3.sql)|[4](https://github.com/kaneda05/algo/blob/main/2/database1/4/4.sql)|[5](https://github.com/kaneda05/algo/blob/main/2/database1/4/5.sql)|[6](https://github.com/kaneda05/algo/blob/main/2/database1/4/6.sql)|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+
+- ORVERについて
+[【SQL】分析関数のOVER句を使ってデータを集計する](https://z-marketing.net/sql-over/)
+
+分析関数と集約関数について
+基本フォーマット OVER(PARTITION BY カラム名 ORDER BY カラム名)
+
+
+
+- ROW_NUMBER()について
+[【SQL】連番を振るROW_NUMBER関数を解説！一番よく使う順位付け関数をマスターしよう](https://style.potepan.com/articles/23566.html)
