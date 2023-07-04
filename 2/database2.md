@@ -1,0 +1,3 @@
+## データベース入門(2)
+|データベース入門(1)の復習|[1](https://github.com/kaneda05/algo/blob/main/2/database2/1/1.sql)|[2](https://github.com/kaneda05/algo/blob/main/2/database2/1/2.sql)|[3](https://github.com/kaneda05/algo/blob/main/2/database2/1/3.sql)|[4](https://github.com/kaneda05/algo/blob/main/2/database2/1/4.sql)|[5](https://github.com/kaneda05/algo/blob/main/2/database2/1/5.sql)|[6](https://github.com/kaneda05/algo/blob/main/2/database2/1/6.sql)|[7](https://github.com/kaneda05/algo/blob/main/2/database2/1/7.sql)|[8](https://github.com/kaneda05/algo/blob/main/2/database2/1/8.sql)|[9](https://github.com/kaneda05/algo/blob/main/2/database2/1/9.sql)|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
