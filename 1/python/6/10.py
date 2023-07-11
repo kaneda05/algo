@@ -3,5 +3,9 @@
 S = input()
 
 # 受け取った値を利用してコードを書いてください
-ans = len(set(S))
-print(ans)
+T = ""
+for i in S:
+    if i == "a": T+="b"
+    elif i == "b": T+="c"
+    else: T+="a"
+print(T)

@@ -10,3 +10,4 @@
 |:--:|:--:|:--:|
 |データベース入門(1)|[ACコード](https://github.com/kaneda05/algo/blob/main/2/database1.md)|96.2%|
 |データベース入門(2)|[ACコード](https://github.com/kaneda05/algo/blob/main/2/database2.md)|0%|
+
