@@ -13,11 +13,11 @@
 
 |コンピュータサイエンス入門|コード|%|
 |:--:|:--:|:--:|
-|アルゴリズムと設計技法|[ACコード](https://github.com/kaneda05/algo/blob/main/2/database1.md)|96.2%|
+|アルゴリズムと設計技法|[ACコード](https://github.com/kaneda05/algo/blob/main/3/algo.md)|96.2%|
 |データ構造|[ACコード](https://github.com/kaneda05/algo/blob/main/2/database2.md)|0%|
 |グラフアルゴリズム|[ACコード](https://github.com/kaneda05/algo/blob/main/2/database2.md)|0%|
 |計算量|[ACコード](https://github.com/kaneda05/algo/blob/main/2/database2.md)|0%|
-|ビット演算|[ACコード](https://github.com/kaneda05/algo/blob/main/2/database2.md)|0%|
+|ビット演算|[ACコード](https://github.com/kaneda05/algo/blob/main/3/bit.md)|0%|
 |コンピュータ上の数の表現|[ACコード](https://github.com/kaneda05/algo/blob/main/2/database2.md)|0%|
 
 |社会で活躍する技術|コード|%|
